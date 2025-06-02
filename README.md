@@ -1,0 +1,1 @@
+This is the final project for the Toronto Metropolitan University COE718 Embedded Systems Design course. See the report for more details about the project and see the Pictures file to quickly see shots of the LCD screen.
